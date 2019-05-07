@@ -6,3 +6,5 @@ def hello():
 def something_else():
     print("Something else")
     
+def another_thing():
+    print("another thing")
